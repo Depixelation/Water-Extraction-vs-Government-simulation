@@ -8,3 +8,5 @@ Your tanks have unlimited capacity; however, the moment your total unsold water 
 Now, you are wondering about the rate of water sale for different configurations of N, r, and D, as well as how to maximize efficiency by changing the number n of tanks to deliver whenever your total unsold water reaches the cap. 
 
 This simulation simulates these combinations of N, r, D and n over time to determine the rate of water sale for each. 
+
+Originally started as an exploration of (but is no longer applicable to) Minecraft mob farm tower flush timings. 
